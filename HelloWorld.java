@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main (String[] args) {
-		System.out.println("****** HelloWorld This is my THIRD java Program ******");
+		System.out.println("****** This is Github WebHooking ******");
 	}
 }
