@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main (String[] args) {
-		System.out.println("****** This is to send email notification updated new ******");
+		System.out.println("****** This is to send email notification updated latest ******");
 	}
 }
